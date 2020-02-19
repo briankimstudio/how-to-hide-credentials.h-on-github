@@ -1,4 +1,6 @@
-**How to hide credentials.h on github**
+**How to hide credentials formation on github**
+
+Working with credentials.h file on github withoue revealing real information in working directory.
 
 1. Commit dummy credentials.h
 2. Add to .gitignore
